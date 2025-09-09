@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444610489913",
+    "project_id": "mhkcerp-1a913",
+    "storage_bucket": "mhkcerp-1a913.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444610489913:android:7c22cb3066c701cd3be7e8",
+        "android_client_info": {
+          "package_name": "com.example.regform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEEzamxlQJXYfmaXdVw_zkt_9qxJZVwbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444610489913:android:ae5f2040d604efe13be7e8",
+        "android_client_info": {
+          "package_name": "com.mhkc.erp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEEzamxlQJXYfmaXdVw_zkt_9qxJZVwbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
